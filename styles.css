@@ -3,39 +3,100 @@
 }
 
 html, body {
+
+	margin-top: 34px;
+
 	margin: 0;
+
+	color: purple;
+
+	font-family: 'Mada';
+
 }
 
 header, footer {
 
+	
+
+	
+
+
+
+	background-color: purple;
+
+	color: white;
+
+	margin: auto;
+
+	font-family: 'Mada';
+
+
 }
 
+
+
+
+
+  
+
+
 .centered {
+
+
+	
+
+	width:  50%;
+
+	margin: auto;
+
+
 
 }
 
 header .subtitle {
 
+margin: 0;
+	padding-top: 34px;
+
+
 }
 
 h1 {
 
+
+
 }
 
 ul {
+	
+	list-style-type: square;
+
 	display: flex;
+
 	flex-wrap: wrap;
+
+	
 }
 
 ul li {
-	width: 50%;
+	
+
+	
 }
 
 main {
 
+	margin: auto;
+
+
+
 }
 
 section {
+
+	width:  50%;
+
+	margin: auto;
 
 }
 
@@ -44,6 +105,8 @@ h2 {
 }
 
 h3 {
+
+
 
 }
 
